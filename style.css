@@ -1,0 +1,35 @@
+/* 
+Together-2
+ */
+ body{
+	background:#B3B3B3;
+	font-size: 150%;
+}
+
+header{
+	
+	text-align: center;
+	background: #00b7ea;
+
+
+}
+h2{
+	background-color: #00b7ea;
+	color: black;
+}
+details{
+	font-style: italic;
+}
+section{
+	display:inline-block;
+	width: 30%;
+	float: left;
+}
+footer{
+	font-style: italic;
+	background-color: blue;
+	clear:both;
+}
+img{
+	width: 45px;
+}
